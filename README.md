@@ -39,4 +39,4 @@ I guess I could say my preferred stack nowadays is the MERN/MEAN stack, but most
 
 Feel free to look around
 ## Be sure to check my [portfolio](https://gersiomarsiento.github.io/portfolio/) 😉 
-## If you see anything you like, be sure to [contact me](mailto:sergioezequielsarmiento@gmail.com) 📧!
+## If you see anything you like, be sure to contact me @ [sergioezequielsarmiento@gmail.com](mailto:sergioezequielsarmiento@gmail.com) 📧!
