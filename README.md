@@ -1,16 +1,25 @@
-### Hi there 👋
+![coding!](https://github.com/gersiomarsiento/portfolio/blob/master/public/img/code.gif?raw=true)
 
-<!--
-**gersiomarsiento/gersiomarsiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hola gente bella del mundo digital!
 
-Here are some ideas to get you started:
+## My name is Sergio Sarmiento 🦝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I have spent the last couple of years learning to code ** </> **. 
+
+# Although I'm no expert, I have become very familiar with:
+
+## • HTML
+## • CSS
+## • Javascript
+## • Node
+## • MongoDB
+
+# And also a bit of:
+## • React
+## • Python
+## • PHP
+## • SQL
+
+# I guess I could say myy preferred stack nowadays is the MERN/MEAN stack, but most importantly, I try to keep myself busy **LEARNING**
+
+# Feel free to explore and, if you happen to find anything of your liking (be sure to check my [portfolio](https://gersiomarsiento.github.io/portfolio/) 😉), be sure to [contact me](mailto:sergioezequielsarmiento@gmail.com) 📧!
