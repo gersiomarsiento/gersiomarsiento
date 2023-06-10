@@ -7,16 +7,25 @@
 I have spent the last couple of years learning to code  **</>** . 
 
 Although I'm no expert, I have become very familiar with:
+
 **• HTML**
+
 **• CSS**
+
 **• Javascript**
+
 **• Node**
+
 **• MongoDB**
 
 And also a bit of:
+
 **• React**
+
 **• Python**
+
 **• PHP**
+
 **• SQL**
 
 I guess I could say my preferred stack nowadays is the MERN/MEAN stack, but most importantly, I try to keep myself busy **LEARNING**
